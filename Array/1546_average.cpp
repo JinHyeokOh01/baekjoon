@@ -27,7 +27,6 @@ int main() {
 		sum += arr[h];
 	}
 	avg = sum / n;
-
 	cout << avg;
 
 	delete[] arr;
