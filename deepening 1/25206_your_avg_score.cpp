@@ -7,7 +7,7 @@ int main() {
 	double avg = 0;
 	int except_p = 0;
 	string str;
-	
+	//아 그냥 3칸짜리 만들어서 index 1 이랑 2 가지고 조져 !
 	string arr[8] = { "A+", "A0", "B+", "B0", "C+", "C0", "D+", "D0" };
 	for (int i = 0; i < 20; i++) {
 		cin >> str;
